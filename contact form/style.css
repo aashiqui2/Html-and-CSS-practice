@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-image: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)), url(/vincent-guth-62V7ntlKgL8-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)), url('vincent-guth-62V7ntlKgL8-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
